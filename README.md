@@ -16,4 +16,4 @@
 
 ##
 
-![GitHub Contribution Grid Snake](https://github.com/beunori/beunori/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Grid Snake](https://github.com/beunori/beunori/blob/preview/github-contribution-grid-snake.svg)
