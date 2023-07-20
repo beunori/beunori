@@ -16,4 +16,4 @@
 
 ##
 
-![snake animation](https://github.com/<seu beunori>/<seu beunori>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/beunori/beunori/blob/output/github-contribution-grid-snake2.svg)
