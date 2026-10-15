@@ -15,5 +15,3 @@
 </div>
 
 ##
-
-![GitHub Contribution Grid Snake](https://github.com/beunori/beunori/blob/preview/github-contribution-grid-snake-dark.svg)
